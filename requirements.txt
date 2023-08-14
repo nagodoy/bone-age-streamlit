@@ -10,7 +10,7 @@ Pillow==9.0.0
 pandas==1.4.3
 tqdm==4.62.3
 albumentations==1.1.0
-scikit-learn==
+scikit-learn
 scipy
 scikit-image
 opencv-python-headless==4.6.0.66
